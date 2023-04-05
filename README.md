@@ -3,7 +3,7 @@
 다양한 딥러닝 종류를 '슬쩍' 봅니다.
 
 
-[실무데이터](Introduction.md)
+[실무데이터 발표내용](Introduction.md)
 
 [케창딥2장](https://colab.research.google.com/drive/1vjO_aznpiKDR28e7lL4FIDncsuU-cnLa?usp=sharing)
 [케창딥3장](https://colab.research.google.com/drive/1jlPYRq4s-uEM9zrypvE7nH-5l2r_fV3G?usp=sharing)
