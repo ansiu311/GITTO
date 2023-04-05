@@ -5,9 +5,9 @@
 [딥러닝단어정리](words.md)
 
 [2장정리](keras2.md)
-[3장정리]
-[4장정리]
-[5장정리]
+[3장정리](keras3.md)
+[4장정리](keras4.md)
+[5장정리](keras5.md)
 
 [2장코드](https://colab.research.google.com/drive/1vjO_aznpiKDR28e7lL4FIDncsuU-cnLa?usp=sharing)
 [3장코드](https://colab.research.google.com/drive/1jlPYRq4s-uEM9zrypvE7nH-5l2r_fV3G?usp=sharing)
