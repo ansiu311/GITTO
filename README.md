@@ -4,7 +4,7 @@
 
 
 [실무데이터 발표내용](Introduction.md)
-
+[딥러닝단어](words.md)
 [케창딥2장](https://colab.research.google.com/drive/1vjO_aznpiKDR28e7lL4FIDncsuU-cnLa?usp=sharing)
 [케창딥3장](https://colab.research.google.com/drive/1jlPYRq4s-uEM9zrypvE7nH-5l2r_fV3G?usp=sharing)
 [케창딥4장](https://colab.research.google.com/drive/1cCDm2jFp3ne7FvLVsLdACLd65ZUmY0cm?usp=sharing)
