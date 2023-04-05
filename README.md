@@ -2,8 +2,8 @@
 깃토에서는 '파이썬'사용법과 '깃'사용법을 배웁니다.
 또한 다양한 딥러닝 종류를 '슬쩍' 봅니다.
 
-## [Python]
+## [Python](Upy.md)
 
 ## [DEEP LEARNING with Python](DEEPLEARNINGwithPython.md)
 
-## [How to Git]
+## [How to Git](htg.md)
