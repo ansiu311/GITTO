@@ -8,4 +8,4 @@
 
 ## [How to Git](htg.md)
 
-## [PINN]
+## [PINN](pinn.md)
